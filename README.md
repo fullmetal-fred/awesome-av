@@ -33,7 +33,7 @@ Let's kick this off!
     - Specifically just start with Ubuntu server and LOTS of Googling
 - Windows 11
     - Perhaps a bit obvious, but it's actually great for devs now since they've added...
-    - [WSL2](https://learn.microsoft.com/en-us/windows/wsl/about)! Run Ubuntu, Alma, etc right on your Windows machine. It's great for learning sysadmin tools. Not great for developing VM images 😉
+    - [WSL2](https://learn.microsoft.com/en-us/windows/wsl/about)! Run Ubuntu, Alma, etc right on your Windows machine. It's great for learning sysadmin tools. Not great for developing VM images 😉 (because [nested virtualization](https://en.wikipedia.org/wiki/Virtualization#Nested_Virtualization:~:text=with%20console%20emulators.-,Nested%20virtualization,-%5Bedit%5D))
 - Mac
     - I used to be a big Mac user, but it's not part of my daily anymore. That being said, it's still a *nix kernel and most of the admin tools are going to work juuuusst fine on your sweet-ass MacBook pro. 
 
